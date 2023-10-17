@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/reading_mode_menu"
+            android:icon="@drawable/ic_round_bedtime_24"
+            android:title="Reading Mode" />
+
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:title="Activity">
+
+            <menu>
+
+                <item android:id="@+id/share_menu"
+                    android:icon="@drawable/ic_baseline_share_24"
+                    android:title="Share"/>
+
+                <item android:id="@+id/rating_menu"
+                    android:icon="@drawable/ic_baseline_star_rate_24"
+                    android:title="Rating"/>
+
+                <item android:id="@+id/about_menu"
+                    android:icon="@drawable/ic_baseline_error_24"
+                    android:title="About App"/>
+
+                <item android:id="@+id/privacy_menu"
+                    android:icon="@drawable/ic_baseline_error_outline_24"
+                    android:title="Privacy And Policy"/>
+
+            </menu>
+        </item>
+
+    </group>
+
+
+
+
+
+
+
+
+
+
+</menu>

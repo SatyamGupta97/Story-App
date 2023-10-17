@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/size"
+        android:title="size"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_format_size_24">
+
+        <menu>
+            <item android:id="@+id/default_font"
+                android:title="Default"
+                app:showAsAction="never|withText"
+                android:icon="@drawable/ic_baseline_format_size_24"/>
+
+            <item android:id="@+id/size_30"
+                android:title="size 30"
+                app:showAsAction="never|withText"
+                android:icon="@drawable/ic_baseline_format_size_24"/>
+
+            <item android:id="@+id/size_40"
+                android:title="size 40"
+                app:showAsAction="never|withText"
+                android:icon="@drawable/ic_baseline_format_size_24"/>
+
+            <item android:id="@+id/size_50"
+                android:title="size 50"
+                app:showAsAction="never|withText"
+                android:icon="@drawable/ic_baseline_format_size_24"/>
+
+            <item android:id="@+id/size_60"
+                android:title="size 60"
+                app:showAsAction="never|withText"
+                android:icon="@drawable/ic_baseline_format_size_24"/>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/back_color"
+        android:title="back_color"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_invert_colors_24">
+
+        <menu>
+
+            <item android:id="@+id/default_back_color"
+                android:title="default"
+                app:showAsAction="never|withText"
+                android:icon="@drawable/ic_baseline_invert_colors_24"/>
+
+            <item android:id="@+id/back_color_cream"
+                android:title="Cream"
+                app:showAsAction="never|withText"
+                android:icon="@drawable/ic_baseline_invert_colors_24"/>
+
+            <item android:id="@+id/back_color_silver"
+                android:title="Silver"
+                app:showAsAction="never|withText"
+                android:icon="@drawable/ic_baseline_invert_colors_24"/>
+
+            <item android:id="@+id/back_color_yellow"
+                android:title="Yellow"
+                app:showAsAction="never|withText"
+                android:icon="@drawable/ic_baseline_invert_colors_24"/>
+
+            <item android:id="@+id/back_color_gray"
+                android:title="Gray"
+                app:showAsAction="never|withText"
+                android:icon="@drawable/ic_baseline_invert_colors_24"/>
+
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/font_color"
+        android:title="font_color"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_font_download_24">
+
+        <menu>
+
+            <item android:id="@+id/default_font_color"
+                android:title="default"
+                app:showAsAction="never|withText"
+                android:icon="@drawable/ic_baseline_font_download_24"/>
+
+            <item android:id="@+id/font_color_blue"
+                android:title="Blue"
+                app:showAsAction="never|withText"
+                android:icon="@drawable/ic_baseline_font_download_24"/>
+
+            <item android:id="@+id/font_color_violet"
+                android:title="Violet"
+                app:showAsAction="never|withText"
+                android:icon="@drawable/ic_baseline_font_download_24"/>
+
+            <item android:id="@+id/font_color_Maroon"
+                android:title="Maroon"
+                app:showAsAction="never|withText"
+                android:icon="@drawable/ic_baseline_font_download_24"/>
+
+            <item android:id="@+id/font_color_Grey"
+                android:title="Grey"
+                app:showAsAction="never|withText"
+                android:icon="@drawable/ic_baseline_font_download_24"/>
+
+        </menu>
+    </item>
+
+
+</menu>

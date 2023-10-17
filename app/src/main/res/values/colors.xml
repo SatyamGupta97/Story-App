@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="colorBlue">#28A2CF</color>
+    <color name="colorBlueT">#6428a2cf</color>
+    <color name="colorPurple">#A130FF</color>
+    <color name="colorPurpleT">#64a130ff</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="red">#F15050</color>
+    <color name="red_dark">#d43c3c</color>
+    <color name="yellow">#EED45A</color>
+    <color name="yellow_dark">#d4bb46</color>
+    <color name="lime">#BCE24A</color>
+    <color name="lime_dark">#9dbf35</color>
+    <color name="green">#48D26B</color>
+    <color name="gray">#808080</color>
+    <color name="green_dark">#36b957</color>
+    <color name="blue">#48DFE1</color>
+    <color name="blue_dark">#37c4c6</color>
+    <color name="darkblue">#5A9CEE</color>
+    <color name="darkblue_dark">#417eca</color>
+    <color name="darkviolet">#7E50F1</color>
+    <color name="darkviolet_dark">#683dd4</color>
+    <color name="violet">#D65AEE</color>
+    <color name="violet_dark">#b33ec9</color>
+    <color name="black">#000000</color>
+    <color name="navy">#000080</color>
+    <color name="littlecrimish">#eaffd0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="darkgray">#A9A9A9</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="chocolate">#D2691E</color>
+    <color name="cornblue">#6495ed</color>
+    <color name="honeydeo">#c1cdc1</color>
+    <color name="midnightblue">#191970</color>
+    <color name="dodgerblue">#1e90ff</color>
+    <color name="darkslategray">#2F4F4F</color>
+    <color name="dimgray">#696969</color>
+    <color name="darkest_green">#006400</color>
+    <color name="crimson">#DC143C</color>
+    <color name="cream">#F9E5BC</color>
+    <color name="Maroon">#800000</color>
+    <color name="little_yellow">#F3FAB2</color>
+    <color name="snow">#F0FFF0</color>
+    <color name="blue1">#3b5998</color>
+    <color name="slate_gray">#2f4f4f</color>
+    <color name="wheat">#f5deb3</color>
+    <color name="pinchpuff">#FFDAB9</color>
+    <color name="blue_gray">#DBE1F1</color>
+    <color name="green1">#A8F29A</color>
+    <color name="newcolor">#3E534D</color>
+    <color name="newcolor2">#2E4053</color>
+
+
+    <color name="mainPageBackground">#EED45A</color>
+
+    <color name="cardViewColor">#FFFFFF</color>
+
+    <color name="basicColorParent1">#EED45A</color>
+    <color name="basicColorParent2">#FFFFFF</color>
+    <color name="basicColorParent3">#FFFFFF</color>
+
+    <color name="patternColor1">#FFFFFF</color>
+    <color name="patternColor2">#FFFFFF</color>
+
+    <color name="toolbarColor">#2E4053</color>
+    <color name="tabColor1">#C0C0C0</color>
+    <color name="tabColor2">#C0C0C0</color>
+    <color name="tabColor3">#C0C0C0</color>
+    <color name="toolbarTextColor">#FFFFFF</color>
+    <color name="tabIndicator">#2E4053</color>
+    <color name="tabTextColor">#C0C0C0</color>
+    <color name="tabSelectedTextColor">#000000</color>
+
+    <color name="codeColor">#FFFFFF</color>
+
+    <color name="patternNpColor1">#EED45A</color>
+    <color name="patternNpColor2">#EED45A</color>
+    <color name="patternNpColor3">#EED45A</color>
+
+    <color name="outputColor1">#C0C0C0</color>
+
+    <color name="c_program_parent_btn1">#EED45A</color>
+    <color name="c_program_parent_btn2">#EED45A</color>
+    <color name="c_program_parent_btn3">#FFFFFF</color>
+
+    <color name="ds_childBtn_border">#2E4053</color>
+
+    <color name="childTextColor">#2E4053</color>
+
+    <color name="floatingBackground">#ccffffff</color>
+    <color name="floatingNormal">#808080</color>
+    <color name="floatingPressed">#808080</color>
+    <color name="floatingRipple">#808080</color>
+
+    <color name="tableColor">#FFFFFF</color>
+
+    <color name="collapsToolbarColor">#EED45A</color>
+    <color name="codeLineColor">#000000</color>
+
+
+    <color name="drawable_background1">#FFFFFF</color>
+    <color name="drawable_background2">#FFFFFF</color>
+    <color name="drawable_background3">#3E534D</color>
+
+    <color name="arrow_color">#ffffff</color>
+
+    <color name="theory_arrowColor">#000000</color>
+    <color name="theory_question_TextColor">#000000</color>
+
+    <color name="collapse_titleColor">#000000</color>
+</resources>
